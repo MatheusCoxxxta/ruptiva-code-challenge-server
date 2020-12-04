@@ -10,6 +10,6 @@ document: "",
 type: ""
 }
 
-/user - DELETE
+/user/:id - DELETE
 
 URL: https://ruptiva-code-challenge.herokuapp.com/api
